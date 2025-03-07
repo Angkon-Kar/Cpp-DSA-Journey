@@ -17,4 +17,14 @@ int main()
     cout << "Price: " << price << endl;
 
     return 0;
+
+
+    /*
+    Expected Output
+    Age: 20
+    Grade: A
+    Pi: 3.1416
+    Code (Boolean): 1
+    Price: 100.998877
+    */
 }
