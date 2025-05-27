@@ -1,5 +1,5 @@
 /*
-    Write a Program to see (1-15) Even Number’s using For Loop Statement
+    Write a Program to see (1-15) Even Number’s using Do-While Loop Statement
 */
 
 #include <iostream>
@@ -7,10 +7,13 @@ using namespace std;
 
 int main()
 {
-    for (int a = 2; a < 15; a = a + 2)
+    int a = 2;
+    do
     {
         cout << a << endl;
-    }
+        a = a + 2;
+    } while (a <= 15);
+
     return 0;
 }
 
