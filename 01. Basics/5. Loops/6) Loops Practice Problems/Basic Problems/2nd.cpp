@@ -1,5 +1,5 @@
 /*
-     Program to display multiplication table up-to 10
+    Program to display multiplication table up-to 10
 */
 
 #include <iostream>
