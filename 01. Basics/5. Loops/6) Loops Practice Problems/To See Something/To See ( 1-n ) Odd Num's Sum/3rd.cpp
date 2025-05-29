@@ -1,5 +1,5 @@
 /*
-    Write a Program to see (1-n) Odd Number’s Sum using While Loop Statement
+    Write a Program to see (1-n) Odd Number’s Sum using Do While Loop Statement
 */
 
 #include <iostream>
@@ -28,6 +28,9 @@ int main()
     Enter a positive integer: 10
     Sum of odd numbers from 1 to 10 is: 25
     
+    Enter a positive integer: 15
+    Sum of odd numbers from 1 to 15 is: 64
+
     Enter a positive integer: 5 
     Sum of odd numbers from 1 to 5 is: 9
 */
