@@ -1,5 +1,5 @@
 /*
-    Write a Program to see (1-100) Even Number’s Sumusing While Loop Statement
+    Write a Program to see (1-100) Odd Number’s Sumusing While Loop Statement
 */
 
 #include <iostream>
