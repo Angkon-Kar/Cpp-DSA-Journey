@@ -5,25 +5,21 @@ This repository contains all of my practice files, notes, and solutions to probl
 
 ---
 
-## 📌 What You'll Find Here
-
-### 🔹 01_Basics/
+📌 What You'll Find Here
+🔹 01_Basics/
 Beginner-friendly programs to get started with C++. Includes topics like I/O, variables, loops, functions, and basic problem-solving.
 
-### 🔹 02_Data_Structures/
+🔹 02_Data_Structures/
 Implementations of core data structures including Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, and more.
 
-### 🔹 03_Algorithms/
+🔹 03_STL/
+Standard Template Library (STL) tutorials and examples, covering vectors, maps, sets, pairs, stacks, queues, algorithms, and iterators.
+
+🔹 04_Algorithms/
 Classic algorithms for Searching, Sorting, Recursion, Greedy techniques, Dynamic Programming, Bit Manipulation, and Graph Algorithms.
 
-### 🔹 04_Problems/
+🔹 05_Problems/
 Categorized problems by difficulty (Easy/Medium/Hard) and platform-wise (Codeforces, LeetCode, etc).
-
-### 🔹 05_Notes/
-Important cheatsheets and notes for quick revision and understanding of tricky concepts.
-
-### 🔹 06_Contests/
-My participation history in competitive programming contests with source code categorized by rounds.
 
 ---
 
