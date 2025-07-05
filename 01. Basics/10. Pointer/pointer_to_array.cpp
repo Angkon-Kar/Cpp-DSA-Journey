@@ -1,3 +1,5 @@
+//  pointer_to_array.cpp – Access array elements via pointers
+
 #include <iostream>
 using namespace std;
 

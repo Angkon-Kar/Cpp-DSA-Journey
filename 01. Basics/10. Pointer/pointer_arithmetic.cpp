@@ -1,3 +1,5 @@
+//  pointer_arithmetic.cpp – Increment/decrement pointers
+
 #include <iostream>
 using namespace std;
 

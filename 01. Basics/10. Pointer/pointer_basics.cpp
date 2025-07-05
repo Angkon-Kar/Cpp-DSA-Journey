@@ -1,3 +1,5 @@
+//  pointer_basics.cpp – Declare, initialize, dereference
+
 #include <iostream>
 using namespace std;
 

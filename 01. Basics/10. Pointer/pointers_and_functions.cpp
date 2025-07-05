@@ -1,3 +1,5 @@
+//  pointers_and_functions.cpp – Pass pointer to function
+
 #include <iostream>
 using namespace std;
 
