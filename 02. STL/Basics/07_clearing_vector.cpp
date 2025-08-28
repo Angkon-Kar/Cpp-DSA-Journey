@@ -16,3 +16,8 @@ int main() {
     
     return 0;
 }
+/*
+Before clearing, size is: 3
+After clearing, size is: 0
+Is the vector empty? Yes
+*/
