@@ -19,3 +19,11 @@ int main() {
     
     return 0;
 }
+/*
+Number of elements: 3
+Current capacity: 3
+
+After adding an element...
+New size: 4
+New capacity: 6
+*/
