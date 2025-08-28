@@ -20,3 +20,6 @@ int main() {
     
     return 0;
 }
+/*
+Elements after removal: 20 30 40 
+*/
