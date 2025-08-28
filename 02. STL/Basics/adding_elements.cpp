@@ -19,3 +19,6 @@ int main() {
     
     return 0;
 }
+/*
+Elements of vector: 10 20 30 
+*/
