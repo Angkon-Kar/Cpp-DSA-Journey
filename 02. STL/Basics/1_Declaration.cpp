@@ -16,3 +16,7 @@ int main() {
     
     return 0;
 }
+/*
+Vector 'numbers' is empty. Its size is: 0
+Vector 'fruits' has 3 elements.
+*/
