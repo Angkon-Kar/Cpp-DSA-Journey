@@ -1,2 +1,53 @@
-.vscode
+### C++ Project .gitignore ###
 
+# Build directories
+/build/
+/bin/
+/obj/
+
+# Compiled object files
+*.o
+*.obj
+*.slo
+*.lo
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Debugger and linker files
+*.pdb
+*.ilk
+
+# Compiled libraries
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.lai
+*.la
+
+# Fortran module files (if mixed-language)
+*.mod
+*.smod
+
+# Prerequisites
+*.d
+
+# IDE-specific files
+.vscode/
+*.sln
+*.user
+*.layout
+
+# Miscellaneous
+*.log
+*.tmp
+*.swp
+*.bak
