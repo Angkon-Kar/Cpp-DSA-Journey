@@ -22,3 +22,7 @@ int main() {
 
     return 0;
 }
+/*
+Elements (range-based loop): 10 20 30 40 50 
+Elements (indexed loop): 10 20 30 40 50
+*/
