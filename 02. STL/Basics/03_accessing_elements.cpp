@@ -19,3 +19,9 @@ int main() {
 
     return 0;
 }
+/*
+First fruit: Apple
+Second fruit: Banana
+First element using front(): Apple
+Last element using back(): Cherry
+*/
