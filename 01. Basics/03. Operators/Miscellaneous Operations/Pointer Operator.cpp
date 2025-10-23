@@ -10,3 +10,4 @@ int main()
     cout << "Value pointed to by ptr: " << b << endl;
     return 0;
 }
+// Value pointed to by ptr: 10
