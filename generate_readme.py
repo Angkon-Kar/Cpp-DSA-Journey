@@ -1,7 +1,7 @@
 import os
 import re
 import datetime
-from collections import defaultdict
+from collections import defaultdict # This import is not strictly needed for this simplified script, but kept for safety
 
 # --- Configuration ---
 # 🌟 CRITICAL FIX: Setting the correct repository name (Cpp-DSA-Journey) 🌟
@@ -141,5 +141,4 @@ This table provides quick search access to all C++ files, categorized by topic.
         f.write(readme_content)
 
 if __name__ == "__main__":
-    # Ensure this script is named 'generate_readme.py' or update your YAML file
     create_readme()
