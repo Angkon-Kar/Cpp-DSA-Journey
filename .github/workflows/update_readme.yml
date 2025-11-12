@@ -22,7 +22,7 @@ jobs:
         python-version: '3.x' # Use the latest Python 3 version
 
     - name: Run script to update README # Step 3: Execute your Python script
-      run: python update_readme.py # This line correctly calls the Python file above
+      run: python update_readme.py # Calls the script from Section 1
 
     - name: Commit and push changes # Step 4: Add, commit, and push the updated README.md
       run: |
