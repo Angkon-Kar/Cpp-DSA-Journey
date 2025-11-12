@@ -1,7 +1,7 @@
 import os
 import re
 import datetime
-from urllib.parse import quote # CRITICAL FIX 1: For URL encoding spaces/special characters
+from urllib.parse import quote # CRITICAL FIX: Imports quote for URL encoding
 
 # --- Configuration ---
 # 🌟 CONFIGURED FOR: Angkon-Kar/Cpp-DSA-Journey
@@ -63,7 +63,7 @@ def generate_markdown(structure, parent_path="", level=0):
         else:
             file_path = content
             
-            # CRITICAL FIX 2: URL-encode the path to handle spaces, &, and ()
+            # CRITICAL FIX: URL-encode the path to handle spaces, &, and ()
             encoded_path = quote(file_path.replace(os.path.sep, '/'))
             file_link = f"{BASE_URL}/{encoded_path}"
             
@@ -94,7 +94,7 @@ def create_readme():
 
     # 3. Construct the full README content
     
-    # CRITICAL FIX 3: Initialize readme_content as a LIST of strings
+    # Initialize readme_content as a LIST of strings
     readme_content = [] 
     
     # Header and Instructions
