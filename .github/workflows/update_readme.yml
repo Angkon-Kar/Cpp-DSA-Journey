@@ -1,41 +1,40 @@
-name: Auto-Generate README Index
+name: Update Codeforces README
 
 on:
   push:
     branches:
-      - main  # Adjust this if your main branch is 'master'
-    paths:
-      - '**/*.cpp'     # Trigger when C++ files change
-      - '**/*.h'       # Trigger when Header files change
-      - 'generate_readme.py' # Also trigger if the script is updated
+      - main # Trigger this workflow whenever there's a push to the 'main' branch
+      # If your default branch is 'master', change 'main' to 'master'
+  schedule:
+    - cron: '0 0 * * *' # Also run daily at midnight UTC, just in case a manual push is missed
 
 jobs:
-  update-readme:
-    runs-on: ubuntu-latest
+  update_readme:
+    runs-on: ubuntu-latest # Run on a Linux environment provided by GitHub Actions
+
     steps:
-      # Step 1: Check out the repository code
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          # IMPORTANT: We need full history for the auto-commit action later
-          fetch-depth: 0
+    - name: Checkout repository # Step 1: Get your repository's code
+      uses: actions/checkout@v4
 
-      # Step 2: Set up the Python environment
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
+    - name: Set up Python # Step 2: Install Python environment
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x' # Use the latest Python 3 version
 
-      # Step 3: Run the script to generate README.md
-      - name: Run README generation script
-        run: python generate_readme.py
+    - name: Run script to update README # Step 3: Execute your Python script
+      run: python update_readme.py # This line correctly calls the Python file above
 
-      # Step 4: Commit and push the new README.md file
-      - name: Commit and Push new README
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'Auto-updated README with latest C++ file index'
-          file_pattern: 'README.md'
-          # This uses the GITHUB_TOKEN automatically provided by GitHub Actions
-
-          
+    - name: Commit and push changes # Step 4: Add, commit, and push the updated README.md
+      run: |
+        git config user.name "GitHub Actions" # Set the committer's name
+        git config user.email "actions@github.com" # Set the committer's email (a generic one)
+        
+        # Check if there are any changes to README.md. If not, 'git commit' will fail.
+        # '|| echo "No changes to commit"' prevents the step from failing if README is already up-to-date.
+        git add README.md
+        git commit -m "Auto-update README.md with latest problems [skip ci]" || echo "No changes to commit"
+        
+        # Push the changes. The GITHUB_TOKEN secret is automatically provided by GitHub.
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

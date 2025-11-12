@@ -1,16 +1,17 @@
 import os
 import re
 import datetime
-from collections import defaultdict # This import is not strictly needed for this simplified script, but kept for safety
+from urllib.parse import quote # CRITICAL FIX: Imports quote for URL encoding
 
 # --- Configuration ---
-# 🌟 CRITICAL FIX: Setting the correct repository name (Cpp-DSA-Journey) 🌟
+# 🌟 CONFIGURED FOR: Angkon-Kar/Cpp-DSA-Journey
 GITHUB_USERNAME = "Angkon-Kar"
 REPO_NAME = "Cpp-DSA-Journey"
+BRANCH_NAME = "main" 
 # List of folders/files to ignore
-IGNORE_ITEMS = {'.git', '.github', 'generate_readme.py', 'README.md', '__pycache__', '.vscode'}
+IGNORE_ITEMS = {'.git', '.github', 'update_readme.py', 'README.md', '__pycache__', '.vscode'}
 # The base URL for linking to files on GitHub
-BASE_URL = f"https://github.com/{GITHUB_USERNAME}/{REPO_NAME}/blob/main"
+BASE_URL = f"https://github.com/{GITHUB_USERNAME}/{REPO_NAME}/blob/{BRANCH_NAME}"
 # ---------------------
 
 def get_repo_structure(start_dir='.'):
@@ -58,7 +59,7 @@ def generate_markdown(structure, parent_path="", level=0):
         if isinstance(content, dict):
             # It's a folder/topic
             
-            # Use a heading for the top-level folders (01. Basics, 02. STL, etc.)
+            # Use a heading for the top-level folders
             if level == 0:
                 markdown_list += f"\n## 📁 {clean_name}\n"
             else:
@@ -73,20 +74,21 @@ def generate_markdown(structure, parent_path="", level=0):
         else:
             # It's a file
             file_path = content
-            # CRITICAL FIX: Use forward slashes for URLs
-            file_link = f"{BASE_URL}/{file_path.replace(os.path.sep, '/')}" 
             
-            # 1. Add to bullet list (Using file icon for clear visual structure)
+            # CRITICAL FIX: URL-encode the path
+            # This turns paths like "01. Input & Output/..." into "01.%20Input%20%26%20Output/..."
+            encoded_path = quote(file_path.replace(os.path.sep, '/'))
+            file_link = f"{BASE_URL}/{encoded_path}"
+            
+            # 1. Add to bullet list 
             markdown_list += f"{'  ' * level}* 📄 [{clean_name.replace('.cpp', '').replace('.h', '')}]({file_link})\n"
             
             # 2. Add to Table (only for .cpp files, typically)
             if file_path.endswith('.cpp'):
                 path_parts = file_path.split(os.path.sep)
                 
-                # Main Topic is the root folder (e.g., '01. Basics')
                 main_topic = path_parts[0] if path_parts else 'Root'
                 
-                # Sub-Topic is the path between the main topic and the file
                 sub_topic_path = path_parts[1:-1]
                 detailed_topic = os.path.join(*sub_topic_path) if sub_topic_path else main_topic
 
@@ -104,11 +106,16 @@ def create_readme():
     structure_markdown, file_table_data = generate_markdown(structure_map)
 
     # 3. Construct the full README content
-    readme_content = f"""# 📚 Angkon-Kar's C++ DSA Journey Index
+    
+    # FIX: Initialize readme_content as a LIST of strings to allow .append()
+    readme_content = [] 
+    
+    # Header and Instructions
+    readme_content.append(f"""# 📚 Angkon-Kar's C++ DSA Journey Index
 
 This index provides a complete, hyperlinked guide to the code structure of my C++ DSA learning repository.
 
-This index is **automatically generated** by a GitHub Action, ensuring it always matches the latest files in the `main` branch.
+This index is **automatically generated** by a GitHub Action, ensuring it always matches the latest files in the `{BRANCH_NAME}` branch.
 
 ## 📄 Repository Structure
 
@@ -124,21 +131,20 @@ This table provides quick search access to all C++ files, categorized by topic.
 
 | Main Topic | Sub-Topic/Folder Path | File Description | Link to Code |
 | :--- | :--- | :--- | :--- |
-"""
+""")
 
     # 4. Add table rows
     for main_topic, sub_topic, display_name, link in file_table_data:
-        # If sub_topic is the same as main_topic (files are directly in the main folder), display 'Root' or '---'
         display_sub_topic = sub_topic if sub_topic != main_topic else '---'
-        readme_content += f"| **{main_topic}** | {display_sub_topic} | {display_name} | [View Code]({link}) |\n"
+        readme_content.append(f"| **{main_topic}** | {display_sub_topic} | {display_name} | [View Code]({link}) |\n")
 
     # Footer with Timestamp
     readme_content.append("\n---\n")
     readme_content.append(f"*README generated on {datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M:%S')} UTC*\n")
 
-    # 5. Write the file
+    # 5. Write the file by joining the list items into one large string
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(readme_content)
+        f.write("".join(readme_content))
 
 if __name__ == "__main__":
     create_readme()
