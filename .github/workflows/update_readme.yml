@@ -1,0 +1,41 @@
+name: Auto-Generate README Index
+
+on:
+  push:
+    branches:
+      - main  # Adjust this if your main branch is 'master'
+    paths:
+      - '**/*.cpp'     # Trigger when C++ files change
+      - '**/*.h'       # Trigger when Header files change
+      - 'generate_readme.py' # Also trigger if the script is updated
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Check out the repository code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # IMPORTANT: We need full history for the auto-commit action later
+          fetch-depth: 0
+
+      # Step 2: Set up the Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # Step 3: Run the script to generate README.md
+      - name: Run README generation script
+        run: python generate_readme.py
+
+      # Step 4: Commit and push the new README.md file
+      - name: Commit and Push new README
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Auto-updated README with latest C++ file index'
+          file_pattern: 'README.md'
+          # This uses the GITHUB_TOKEN automatically provided by GitHub Actions
+
+          
