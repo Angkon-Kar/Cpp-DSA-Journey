@@ -1,6 +1,4 @@
-# 🚀 Angkon-Kar's C++ DSA Journey
-
-[![Hits](https://hits.sh/github.com/Angkon-Kar/Cpp-DSA-Journey.svg?label=Views&extraCount=888)](https://hits.sh/github.com/Angkon-Kar/Cpp-DSA-Journey/)
+# 🚀 Angkon-Kar's C++ DSA Journey Index
 
 This repository serves as my structured journey through C++ Data Structures and Algorithms.
 
@@ -499,4 +497,4 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **Mod operationcpp** | --- | Mod operation | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp) |
 
 ---
-*README updated on 2025-12-02 14:25:46 UTC*
+*README updated on 2025-12-02 14:34:19 UTC*
