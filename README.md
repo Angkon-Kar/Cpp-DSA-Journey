@@ -1,4 +1,6 @@
-# 🚀 Angkon-Kar's C++ DSA Journey Index
+# 🚀 Angkon-Kar's C++ DSA Journey
+
+[![Hits](https://hits.sh/github.com/Angkon-Kar/Cpp-DSA-Journey.svg?label=Views&extraCount=888)](https://hits.sh/github.com/Angkon-Kar/Cpp-DSA-Journey/)
 
 This repository serves as my structured journey through C++ Data Structures and Algorithms.
 
