@@ -278,6 +278,9 @@ This section outlines the entire folder hierarchy and provides direct links to e
     * 📄 [rotate_array](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/rotate_array.cpp)
 1. **Strings**
     * 📄 [string_reverse](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/02.%20Strings/string_reverse.cpp)
+
+## 📚 Recursion. Recursion
+  * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/01.cpp)
 * 📄 [Mod operation](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp)
 
 
@@ -494,7 +497,8 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **3 Data Structures** | 01. Arrays | reverse_array | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/reverse_array.cpp) |
 | **3 Data Structures** | 01. Arrays | rotate_array | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/rotate_array.cpp) |
 | **3 Data Structures** | 02. Strings | string_reverse | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/02.%20Strings/string_reverse.cpp) |
+| **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/01.cpp) |
 | **Mod operationcpp** | --- | Mod operation | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp) |
 
 ---
-*README updated on 2025-12-21 01:17:36 UTC*
+*README updated on 2025-12-21 14:04:42 UTC*
