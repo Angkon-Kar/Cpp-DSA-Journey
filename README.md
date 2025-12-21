@@ -285,6 +285,7 @@ This section outlines the entire folder hierarchy and provides direct links to e
   * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/03.cpp)
   * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/04.cpp)
   * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/05.cpp)
+  * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/06.cpp)
 * 📄 [Mod operation](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp)
 
 
@@ -506,7 +507,8 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/03.cpp) |
 | **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/04.cpp) |
 | **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/05.cpp) |
+| **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/06.cpp) |
 | **Mod operationcpp** | --- | Mod operation | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp) |
 
 ---
-*README updated on 2025-12-21 14:52:33 UTC*
+*README updated on 2025-12-21 14:58:42 UTC*
