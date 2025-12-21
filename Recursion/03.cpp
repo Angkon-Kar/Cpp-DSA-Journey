@@ -1,3 +1,4 @@
+// Given an integer n(1 <= n <= 100000), print the digits of n in reverse order using recursion.
 #include <bits/stdc++.h>
 using namespace std;
 
