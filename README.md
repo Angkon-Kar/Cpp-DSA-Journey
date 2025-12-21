@@ -24,16 +24,16 @@ This section outlines the entire folder hierarchy and provides direct links to e
     * 📄 [5_scope_resolution](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/02.%20Variables%20%26%20Data%20Types/5_scope_resolution.cpp)
 1. **Operators**
     * **Assignment Operations**
+      * 📄 [01st](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/01st.cpp)
+      * 📄 [02nd](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/02nd.cpp)
+      * 📄 [03rd](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/03rd.cpp)
+      * 📄 [04th](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/04th.cpp)
+      * 📄 [05th](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/05th.cpp)
+      * 📄 [06th](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/06th.cpp)
+      * 📄 [07th](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/07th.cpp)
+      * 📄 [08th](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/08th.cpp)
+      * 📄 [09th](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/09th.cpp)
       * 📄 [10th](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/10th.cpp)
-      * 📄 [1st](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/1st.cpp)
-      * 📄 [2nd](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/2nd.cpp)
-      * 📄 [3rd](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/3rd.cpp)
-      * 📄 [4th](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/4th.cpp)
-      * 📄 [5th](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/5th.cpp)
-      * 📄 [6th](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/6th.cpp)
-      * 📄 [7th](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/7th.cpp)
-      * 📄 [8th](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/8th.cpp)
-      * 📄 [9th](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/9th.cpp)
     * **Miscellaneous Operations**
       * 📄 [Address-of(&)](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Miscellaneous%20Operations/Address-of%28%26%29.cpp)
       * 📄 [Pointer Operator](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Miscellaneous%20Operations/Pointer%20Operator.cpp)
@@ -281,6 +281,7 @@ This section outlines the entire folder hierarchy and provides direct links to e
 
 ## 📚 Recursion. Recursion
   * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/01.cpp)
+  * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/02.cpp)
 * 📄 [Mod operation](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp)
 
 
@@ -302,16 +303,16 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **1 Basics** | 02. Variables & Data Types | 3_constants | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/02.%20Variables%20%26%20Data%20Types/3_constants.cpp) |
 | **1 Basics** | 02. Variables & Data Types | 4_sizeof_operator | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/02.%20Variables%20%26%20Data%20Types/4_sizeof_operator.cpp) |
 | **1 Basics** | 02. Variables & Data Types | 5_scope_resolution | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/02.%20Variables%20%26%20Data%20Types/5_scope_resolution.cpp) |
+| **1 Basics** | 03. Operators/Assignment Operations | 01st | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/01st.cpp) |
+| **1 Basics** | 03. Operators/Assignment Operations | 02nd | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/02nd.cpp) |
+| **1 Basics** | 03. Operators/Assignment Operations | 03rd | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/03rd.cpp) |
+| **1 Basics** | 03. Operators/Assignment Operations | 04th | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/04th.cpp) |
+| **1 Basics** | 03. Operators/Assignment Operations | 05th | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/05th.cpp) |
+| **1 Basics** | 03. Operators/Assignment Operations | 06th | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/06th.cpp) |
+| **1 Basics** | 03. Operators/Assignment Operations | 07th | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/07th.cpp) |
+| **1 Basics** | 03. Operators/Assignment Operations | 08th | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/08th.cpp) |
+| **1 Basics** | 03. Operators/Assignment Operations | 09th | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/09th.cpp) |
 | **1 Basics** | 03. Operators/Assignment Operations | 10th | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/10th.cpp) |
-| **1 Basics** | 03. Operators/Assignment Operations | 1st | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/1st.cpp) |
-| **1 Basics** | 03. Operators/Assignment Operations | 2nd | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/2nd.cpp) |
-| **1 Basics** | 03. Operators/Assignment Operations | 3rd | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/3rd.cpp) |
-| **1 Basics** | 03. Operators/Assignment Operations | 4th | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/4th.cpp) |
-| **1 Basics** | 03. Operators/Assignment Operations | 5th | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/5th.cpp) |
-| **1 Basics** | 03. Operators/Assignment Operations | 6th | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/6th.cpp) |
-| **1 Basics** | 03. Operators/Assignment Operations | 7th | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/7th.cpp) |
-| **1 Basics** | 03. Operators/Assignment Operations | 8th | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/8th.cpp) |
-| **1 Basics** | 03. Operators/Assignment Operations | 9th | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Assignment%20Operations/9th.cpp) |
 | **1 Basics** | 03. Operators/Miscellaneous Operations | Address-of(&) | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Miscellaneous%20Operations/Address-of%28%26%29.cpp) |
 | **1 Basics** | 03. Operators/Miscellaneous Operations | Pointer Operator | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Miscellaneous%20Operations/Pointer%20Operator.cpp) |
 | **1 Basics** | 03. Operators/Miscellaneous Operations | Size of Operator | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/Miscellaneous%20Operations/Size%20of%20Operator.cpp) |
@@ -498,7 +499,8 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **3 Data Structures** | 01. Arrays | rotate_array | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/rotate_array.cpp) |
 | **3 Data Structures** | 02. Strings | string_reverse | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/02.%20Strings/string_reverse.cpp) |
 | **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/01.cpp) |
+| **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/02.cpp) |
 | **Mod operationcpp** | --- | Mod operation | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp) |
 
 ---
-*README updated on 2025-12-21 14:04:42 UTC*
+*README updated on 2025-12-21 14:23:15 UTC*
