@@ -260,6 +260,7 @@ This section outlines the entire folder hierarchy and provides direct links to e
     * 📄 [09_STL_Pair_Helper_Class](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/All%20About%20STL/09_STL_Pair_Helper_Class.cpp)
     * 📄 [10_STL_Associative_Container_Map](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/All%20About%20STL/10_STL_Associative_Container_Map.cpp)
     * 📄 [11_Sequence_Containers](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/All%20About%20STL/11_Sequence_Containers.cpp)
+    * 📄 [12_Associative_Containers](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/All%20About%20STL/12_Associative_Containers.cpp)
 1. **Basics**
     * 📄 [01_declaration](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/01_declaration.cpp)
     * 📄 [02_adding_elements](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/02_adding_elements.cpp)
@@ -496,6 +497,7 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **2 STL** | All About STL | 09_STL_Pair_Helper_Class | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/All%20About%20STL/09_STL_Pair_Helper_Class.cpp) |
 | **2 STL** | All About STL | 10_STL_Associative_Container_Map | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/All%20About%20STL/10_STL_Associative_Container_Map.cpp) |
 | **2 STL** | All About STL | 11_Sequence_Containers | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/All%20About%20STL/11_Sequence_Containers.cpp) |
+| **2 STL** | All About STL | 12_Associative_Containers | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/All%20About%20STL/12_Associative_Containers.cpp) |
 | **2 STL** | Basics | 01_declaration | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/01_declaration.cpp) |
 | **2 STL** | Basics | 02_adding_elements | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/02_adding_elements.cpp) |
 | **2 STL** | Basics | 03_accessing_elements | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/03_accessing_elements.cpp) |
@@ -522,4 +524,4 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **Mod operationcpp** | --- | Mod operation | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp) |
 
 ---
-*README updated on 2026-02-10 08:28:48 UTC*
+*README updated on 2026-02-10 08:31:14 UTC*
