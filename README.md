@@ -267,6 +267,7 @@ This section outlines the entire folder hierarchy and provides direct links to e
     * 📄 [05_iterating](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/05_iterating.cpp)
     * 📄 [06_removing_elements](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/06_removing_elements.cpp)
     * 📄 [07_clearing_vector](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/07_clearing_vector.cpp)
+    * 📄 [practice](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/practice.cpp)
 
 ## 📚 03. Data Structures. Data Structures
 1. **Arrays**
@@ -278,6 +279,10 @@ This section outlines the entire folder hierarchy and provides direct links to e
     * 📄 [rotate_array](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/rotate_array.cpp)
 1. **Strings**
     * 📄 [string_reverse](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/02.%20Strings/string_reverse.cpp)
+
+## 📚 Projects. Projects
+1. **Beginner Level**
+    * 📄 [ROCK_PAPER_SCISSORS__GAME](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Projects/Beginner%20Level/ROCK_PAPER_SCISSORS__GAME.cpp)
 
 ## 📚 Recursion. Recursion
   * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/01.cpp)
@@ -496,6 +501,7 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **2 STL** | Basics | 05_iterating | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/05_iterating.cpp) |
 | **2 STL** | Basics | 06_removing_elements | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/06_removing_elements.cpp) |
 | **2 STL** | Basics | 07_clearing_vector | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/07_clearing_vector.cpp) |
+| **2 STL** | Basics | practice | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/practice.cpp) |
 | **3 Data Structures** | 01. Arrays | array_basics | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/array_basics.cpp) |
 | **3 Data Structures** | 01. Arrays | kadane_max_subarray | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/kadane_max_subarray.cpp) |
 | **3 Data Structures** | 01. Arrays | merge_two_sorted_arrays | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/merge_two_sorted_arrays.cpp) |
@@ -503,6 +509,7 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **3 Data Structures** | 01. Arrays | reverse_array | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/reverse_array.cpp) |
 | **3 Data Structures** | 01. Arrays | rotate_array | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/rotate_array.cpp) |
 | **3 Data Structures** | 02. Strings | string_reverse | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/02.%20Strings/string_reverse.cpp) |
+| **Projects** | Beginner Level | ROCK_PAPER_SCISSORS__GAME | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Projects/Beginner%20Level/ROCK_PAPER_SCISSORS__GAME.cpp) |
 | **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/01.cpp) |
 | **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/02.cpp) |
 | **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/03.cpp) |
@@ -513,4 +520,4 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **Mod operationcpp** | --- | Mod operation | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp) |
 
 ---
-*README updated on 2026-02-10 01:56:05 UTC*
+*README updated on 2026-02-10 05:37:50 UTC*
