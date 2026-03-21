@@ -270,6 +270,12 @@ This section outlines the entire folder hierarchy and provides direct links to e
     * 📄 [06_removing_elements](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/06_removing_elements.cpp)
     * 📄 [07_clearing_vector](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/07_clearing_vector.cpp)
     * 📄 [practice](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/practice.cpp)
+1. **MSC**
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/01.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/02.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/03.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/04.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/05.cpp)
 
 ## 📚 03. Data Structures. Data Structures
 1. **Arrays**
@@ -506,6 +512,11 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **2 STL** | Basics | 06_removing_elements | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/06_removing_elements.cpp) |
 | **2 STL** | Basics | 07_clearing_vector | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/07_clearing_vector.cpp) |
 | **2 STL** | Basics | practice | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/Basics/practice.cpp) |
+| **2 STL** | MSC | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/01.cpp) |
+| **2 STL** | MSC | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/02.cpp) |
+| **2 STL** | MSC | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/03.cpp) |
+| **2 STL** | MSC | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/04.cpp) |
+| **2 STL** | MSC | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/05.cpp) |
 | **3 Data Structures** | 01. Arrays | array_basics | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/array_basics.cpp) |
 | **3 Data Structures** | 01. Arrays | kadane_max_subarray | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/kadane_max_subarray.cpp) |
 | **3 Data Structures** | 01. Arrays | merge_two_sorted_arrays | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/merge_two_sorted_arrays.cpp) |
@@ -524,4 +535,4 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **Mod operationcpp** | --- | Mod operation | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp) |
 
 ---
-*README updated on 2026-03-21 01:24:29 UTC*
+*README updated on 2026-03-21 19:46:52 UTC*
