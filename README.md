@@ -591,4 +591,4 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **Mod operationcpp** | --- | Mod operation | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp) |
 
 ---
-*README updated on 2026-07-05 02:31:00 UTC*
+*README updated on 2026-07-06 02:35:14 UTC*
