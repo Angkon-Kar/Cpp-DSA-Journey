@@ -306,6 +306,68 @@ This section outlines the entire folder hierarchy and provides direct links to e
       * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/02/08.cpp)
       * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/02/09.cpp)
 
+## 📚 02_STL. 02_STL
+1. **All About STL**
+    * 📄 [01_What_Is_STL](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/01_What_Is_STL.cpp)
+    * 📄 [02_Why_use_STL](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/02_Why_use_STL.cpp)
+    * 📄 [03_STL_Features_Containers_Iterators_Algorithms](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/03_STL_Features_Containers_Iterators_Algorithms.cpp)
+    * 📄 [04_Complexity_BigO](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/04_Complexity_BigO.cpp)
+    * 📄 [05_STL_Vector_Sequential_Container](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/05_STL_Vector_Sequential_Container.cpp)
+    * 📄 [06_STL_Deque_Sequential_Container](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/06_STL_Deque_Sequential_Container.cpp)
+    * 📄 [07_STL_List_Sequential_Container](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/07_STL_List_Sequential_Container.cpp)
+    * 📄 [08_STL_Associative_Container_Set](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/08_STL_Associative_Container_Set.cpp)
+    * 📄 [09_STL_Pair_Helper_Class](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/09_STL_Pair_Helper_Class.cpp)
+    * 📄 [10_STL_Associative_Container_Map](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/10_STL_Associative_Container_Map.cpp)
+    * 📄 [11_Sequence_Containers](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/11_Sequence_Containers.cpp)
+    * 📄 [12_Associative_Containers](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/12_Associative_Containers.cpp)
+1. **Basics**
+    * 📄 [01_declaration](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/01_declaration.cpp)
+    * 📄 [02_adding_elements](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/02_adding_elements.cpp)
+    * 📄 [03_accessing_elements](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/03_accessing_elements.cpp)
+    * 📄 [04_size_capacity](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/04_size_capacity.cpp)
+    * 📄 [05_iterating](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/05_iterating.cpp)
+    * 📄 [06_removing_elements](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/06_removing_elements.cpp)
+    * 📄 [07_clearing_vector](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/07_clearing_vector.cpp)
+    * 📄 [practice](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/practice.cpp)
+1. **MSC**
+    * **01**
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/01.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/02.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/03.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/04.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/05.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/06.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/07.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/08.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/09.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/10.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/11.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/12.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/13.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/14.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/15.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/16.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/17.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/18.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/19.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/20.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/21.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/22.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/23.cpp)
+    * **02**
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/01.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/02.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/03.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/04.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/05.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/06.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/07.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/08.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/09.cpp)
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/10.cpp)
+    * **03**
+      * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/03/1.cpp)
+
 ## 📚 03. Data Structures. Data Structures
 1. **Arrays**
     * 📄 [array_basics](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/array_basics.cpp)
@@ -573,6 +635,60 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **2 STL** | MSC/02 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/02/07.cpp) |
 | **2 STL** | MSC/02 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/02/08.cpp) |
 | **2 STL** | MSC/02 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02.%20STL/MSC/02/09.cpp) |
+| **2_STL** | All About STL | 01_What_Is_STL | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/01_What_Is_STL.cpp) |
+| **2_STL** | All About STL | 02_Why_use_STL | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/02_Why_use_STL.cpp) |
+| **2_STL** | All About STL | 03_STL_Features_Containers_Iterators_Algorithms | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/03_STL_Features_Containers_Iterators_Algorithms.cpp) |
+| **2_STL** | All About STL | 04_Complexity_BigO | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/04_Complexity_BigO.cpp) |
+| **2_STL** | All About STL | 05_STL_Vector_Sequential_Container | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/05_STL_Vector_Sequential_Container.cpp) |
+| **2_STL** | All About STL | 06_STL_Deque_Sequential_Container | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/06_STL_Deque_Sequential_Container.cpp) |
+| **2_STL** | All About STL | 07_STL_List_Sequential_Container | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/07_STL_List_Sequential_Container.cpp) |
+| **2_STL** | All About STL | 08_STL_Associative_Container_Set | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/08_STL_Associative_Container_Set.cpp) |
+| **2_STL** | All About STL | 09_STL_Pair_Helper_Class | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/09_STL_Pair_Helper_Class.cpp) |
+| **2_STL** | All About STL | 10_STL_Associative_Container_Map | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/10_STL_Associative_Container_Map.cpp) |
+| **2_STL** | All About STL | 11_Sequence_Containers | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/11_Sequence_Containers.cpp) |
+| **2_STL** | All About STL | 12_Associative_Containers | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/All%20About%20STL/12_Associative_Containers.cpp) |
+| **2_STL** | Basics | 01_declaration | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/01_declaration.cpp) |
+| **2_STL** | Basics | 02_adding_elements | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/02_adding_elements.cpp) |
+| **2_STL** | Basics | 03_accessing_elements | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/03_accessing_elements.cpp) |
+| **2_STL** | Basics | 04_size_capacity | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/04_size_capacity.cpp) |
+| **2_STL** | Basics | 05_iterating | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/05_iterating.cpp) |
+| **2_STL** | Basics | 06_removing_elements | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/06_removing_elements.cpp) |
+| **2_STL** | Basics | 07_clearing_vector | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/07_clearing_vector.cpp) |
+| **2_STL** | Basics | practice | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/Basics/practice.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/01.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/02.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/03.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/04.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/05.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/06.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/07.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/08.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/09.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/10.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/11.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/12.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/13.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/14.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/15.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/16.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/17.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/18.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/19.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/20.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/21.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/22.cpp) |
+| **2_STL** | MSC/01 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/01/23.cpp) |
+| **2_STL** | MSC/02 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/01.cpp) |
+| **2_STL** | MSC/02 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/02.cpp) |
+| **2_STL** | MSC/02 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/03.cpp) |
+| **2_STL** | MSC/02 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/04.cpp) |
+| **2_STL** | MSC/02 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/05.cpp) |
+| **2_STL** | MSC/02 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/06.cpp) |
+| **2_STL** | MSC/02 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/07.cpp) |
+| **2_STL** | MSC/02 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/08.cpp) |
+| **2_STL** | MSC/02 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/09.cpp) |
+| **2_STL** | MSC/02 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/02/10.cpp) |
+| **2_STL** | MSC/03 | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/02_STL/MSC/03/1.cpp) |
 | **3 Data Structures** | 01. Arrays | array_basics | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/array_basics.cpp) |
 | **3 Data Structures** | 01. Arrays | kadane_max_subarray | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/kadane_max_subarray.cpp) |
 | **3 Data Structures** | 01. Arrays | merge_two_sorted_arrays | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/merge_two_sorted_arrays.cpp) |
@@ -591,4 +707,4 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **Mod operationcpp** | --- | Mod operation | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp) |
 
 ---
-*README updated on 2026-09-22 02:49:52 UTC*
+*README updated on 2026-09-22 22:00:55 UTC*
