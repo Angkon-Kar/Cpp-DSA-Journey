@@ -44,6 +44,7 @@ This section outlines the entire folder hierarchy and provides direct links to e
     * 📄 [arithmetic_operator](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/arithmetic_operator.cpp)
     * 📄 [bitwise_operators](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/bitwise_operators.cpp)
     * 📄 [logical_operators](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/logical_operators.cpp)
+    * 📄 [mod_operation](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/mod_operation.cpp)
     * 📄 [operator_precedence](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/operator_precedence.cpp)
     * 📄 [relational_operators](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/relational_operators.cpp)
     * 📄 [ternary_operator](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/ternary_operator.cpp)
@@ -428,7 +429,6 @@ This section outlines the entire folder hierarchy and provides direct links to e
   * 📄 [basic7](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic7.cpp)
   * 📄 [basic8](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic8.cpp)
   * 📄 [basic9](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic9.cpp)
-* 📄 [Mod operation](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp)
 
 
 ---
@@ -468,6 +468,7 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **1 Basics** | 03. Operators | arithmetic_operator | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/arithmetic_operator.cpp) |
 | **1 Basics** | 03. Operators | bitwise_operators | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/bitwise_operators.cpp) |
 | **1 Basics** | 03. Operators | logical_operators | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/logical_operators.cpp) |
+| **1 Basics** | 03. Operators | mod_operation | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/mod_operation.cpp) |
 | **1 Basics** | 03. Operators | operator_precedence | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/operator_precedence.cpp) |
 | **1 Basics** | 03. Operators | relational_operators | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/relational_operators.cpp) |
 | **1 Basics** | 03. Operators | ternary_operator | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/01.%20Basics/03.%20Operators/ternary_operator.cpp) |
@@ -769,7 +770,6 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **stack** | --- | basic7 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic7.cpp) |
 | **stack** | --- | basic8 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic8.cpp) |
 | **stack** | --- | basic9 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic9.cpp) |
-| **Mod operationcpp** | --- | Mod operation | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp) |
 
 ---
-*README updated on 2026-09-24 02:39:37 UTC*
+*README updated on 2026-09-24 20:55:36 UTC*
