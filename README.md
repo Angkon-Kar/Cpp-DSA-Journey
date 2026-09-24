@@ -379,9 +379,29 @@ This section outlines the entire folder hierarchy and provides direct links to e
 1. **Strings**
     * 📄 [string_reverse](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/02.%20Strings/string_reverse.cpp)
 
+## 📚 Lab_Exam. Lab_Exam
+1. **2ndYear1stSemester**
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/1.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/10.cpp)
+    * 📄 [11-12](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/11-12.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/13.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/14.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/2.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/3.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/4.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/5.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/6.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/7.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/8.cpp)
+    * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/9.cpp)
+
 ## 📚 Projects. Projects
 1. **Beginner Level**
     * 📄 [ROCK_PAPER_SCISSORS__GAME](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Projects/Beginner%20Level/ROCK_PAPER_SCISSORS__GAME.cpp)
+1. **beginner_level**
+    * 📄 [rock_paper_scissors__game](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Projects/beginner_level/rock_paper_scissors__game.cpp)
+1. **intermediate_level**
+    * 📄 [beesimulation](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Projects/intermediate_level/beesimulation.cpp)
 
 ## 📚 Recursion. Recursion
   * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/01.cpp)
@@ -391,6 +411,23 @@ This section outlines the entire folder hierarchy and provides direct links to e
   * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/05.cpp)
   * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/06.cpp)
   * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/07.cpp)
+
+## 📚 sorting. sorting
+  * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/sorting/1.cpp)
+  * 📄 [cpp](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/sorting/2.cpp)
+
+## 📚 stack. stack
+  * 📄 [basic1](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic1.cpp)
+  * 📄 [basic10](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic10.cpp)
+  * 📄 [basic11](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic11.cpp)
+  * 📄 [basic2](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic2.cpp)
+  * 📄 [basic3](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic3.cpp)
+  * 📄 [basic4](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic4.cpp)
+  * 📄 [basic5](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic5.cpp)
+  * 📄 [basic6](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic6.cpp)
+  * 📄 [basic7](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic7.cpp)
+  * 📄 [basic8](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic8.cpp)
+  * 📄 [basic9](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic9.cpp)
 * 📄 [Mod operation](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp)
 
 
@@ -696,7 +733,22 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **3 Data Structures** | 01. Arrays | reverse_array | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/reverse_array.cpp) |
 | **3 Data Structures** | 01. Arrays | rotate_array | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/01.%20Arrays/rotate_array.cpp) |
 | **3 Data Structures** | 02. Strings | string_reverse | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/03.%20Data%20Structures/02.%20Strings/string_reverse.cpp) |
+| **Lab_Exam** | 2ndYear1stSemester | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/1.cpp) |
+| **Lab_Exam** | 2ndYear1stSemester | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/10.cpp) |
+| **Lab_Exam** | 2ndYear1stSemester | 11-12 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/11-12.cpp) |
+| **Lab_Exam** | 2ndYear1stSemester | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/13.cpp) |
+| **Lab_Exam** | 2ndYear1stSemester | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/14.cpp) |
+| **Lab_Exam** | 2ndYear1stSemester | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/2.cpp) |
+| **Lab_Exam** | 2ndYear1stSemester | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/3.cpp) |
+| **Lab_Exam** | 2ndYear1stSemester | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/4.cpp) |
+| **Lab_Exam** | 2ndYear1stSemester | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/5.cpp) |
+| **Lab_Exam** | 2ndYear1stSemester | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/6.cpp) |
+| **Lab_Exam** | 2ndYear1stSemester | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/7.cpp) |
+| **Lab_Exam** | 2ndYear1stSemester | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/8.cpp) |
+| **Lab_Exam** | 2ndYear1stSemester | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Lab_Exam/2ndYear1stSemester/9.cpp) |
 | **Projects** | Beginner Level | ROCK_PAPER_SCISSORS__GAME | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Projects/Beginner%20Level/ROCK_PAPER_SCISSORS__GAME.cpp) |
+| **Projects** | beginner_level | rock_paper_scissors__game | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Projects/beginner_level/rock_paper_scissors__game.cpp) |
+| **Projects** | intermediate_level | beesimulation | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Projects/intermediate_level/beesimulation.cpp) |
 | **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/01.cpp) |
 | **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/02.cpp) |
 | **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/03.cpp) |
@@ -704,7 +756,20 @@ This table provides a quick, searchable index to all C++ files, categorized by t
 | **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/05.cpp) |
 | **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/06.cpp) |
 | **Recursion** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Recursion/07.cpp) |
+| **sorting** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/sorting/1.cpp) |
+| **sorting** | --- | cpp | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/sorting/2.cpp) |
+| **stack** | --- | basic1 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic1.cpp) |
+| **stack** | --- | basic10 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic10.cpp) |
+| **stack** | --- | basic11 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic11.cpp) |
+| **stack** | --- | basic2 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic2.cpp) |
+| **stack** | --- | basic3 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic3.cpp) |
+| **stack** | --- | basic4 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic4.cpp) |
+| **stack** | --- | basic5 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic5.cpp) |
+| **stack** | --- | basic6 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic6.cpp) |
+| **stack** | --- | basic7 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic7.cpp) |
+| **stack** | --- | basic8 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic8.cpp) |
+| **stack** | --- | basic9 | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/stack/basic9.cpp) |
 | **Mod operationcpp** | --- | Mod operation | [View Code](https://github.com/Angkon-Kar/Cpp-DSA-Journey/blob/main/Mod%20operation.cpp) |
 
 ---
-*README updated on 2026-09-22 22:00:55 UTC*
+*README updated on 2026-09-24 02:39:37 UTC*
